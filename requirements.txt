@@ -1,0 +1,14 @@
+# Phishing Detection — Critical Reproduction Study
+# Tested with Python 3.12. Install with: pip install -r requirements.txt
+pandas==3.0.3
+numpy==2.4.6
+scikit-learn==1.8.0
+scipy==1.17.1
+matplotlib==3.10.9
+seaborn==0.13.2
+xgboost==3.3.0
+
+# Notebook execution and PDF report generation
+nbformat==5.10.4
+nbconvert==7.17.1
+reportlab==4.5.1

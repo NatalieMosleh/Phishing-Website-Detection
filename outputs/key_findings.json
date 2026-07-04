@@ -1,0 +1,18 @@
+{
+  "n_rows": 10000,
+  "n_cols": 18,
+  "dup_feature_rows": 9229,
+  "legit_urllen_is_1_pct": 100.0,
+  "unique_feature_vectors": 771,
+  "ambiguous_rows": 6382,
+  "accuracy_ceiling": 0.8677,
+  "best_model": "Random Forest",
+  "best_accuracy": 0.8685,
+  "best_mcc": 0.7436,
+  "best_recall": 0.802,
+  "tpr_op": 0.802,
+  "fpr_op": 0.065,
+  "precision_at_1pct": 0.111,
+  "lexical_only_mcc": 0.433,
+  "lexical_only_accuracy": 0.715
+}
